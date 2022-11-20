@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @g-topoly
-- 👀 I’m interested in the blockchain and general computer science.
-- 🌱 I’m currently learning javaScript!
-- 💞️ I’m looking to collaborate on anything beginner level.
-- 📫 you can reach me at hunterkoldjeski@gmail.com
+- Hi, I’m hunter
+
+- you can reach me at hunterkoldjeski@gmail.com
+
